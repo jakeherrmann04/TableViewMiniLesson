@@ -15,6 +15,7 @@
 		23C9C6771BCAE567007949D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 23C9C6751BCAE567007949D2 /* LaunchScreen.storyboard */; };
 		23C9C6821BCAE567007949D2 /* TableViewMiniLessonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C9C6811BCAE567007949D2 /* TableViewMiniLessonTests.swift */; };
 		23C9C68D1BCAE567007949D2 /* TableViewMiniLessonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C9C68C1BCAE567007949D2 /* TableViewMiniLessonUITests.swift */; };
+		23C9C69B1BCAEA59007949D2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23C9C69A1BCAEA59007949D2 /* DetailViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		23C9C6881BCAE567007949D2 /* TableViewMiniLessonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewMiniLessonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		23C9C68C1BCAE567007949D2 /* TableViewMiniLessonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewMiniLessonUITests.swift; sourceTree = "<group>"; };
 		23C9C68E1BCAE567007949D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23C9C69A1BCAEA59007949D2 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				23C9C6691BCAE567007949D2 /* AppDelegate.swift */,
 				23C9C66B1BCAE567007949D2 /* ViewController.swift */,
+				23C9C69A1BCAEA59007949D2 /* DetailViewController.swift */,
 				23C9C66D1BCAE567007949D2 /* Main.storyboard */,
 				23C9C6731BCAE567007949D2 /* Assets.xcassets */,
 				23C9C6751BCAE567007949D2 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				23C9C6721BCAE567007949D2 /* TableViewMiniLesson.xcdatamodeld in Sources */,
 				23C9C66C1BCAE567007949D2 /* ViewController.swift in Sources */,
 				23C9C66A1BCAE567007949D2 /* AppDelegate.swift in Sources */,
+				23C9C69B1BCAEA59007949D2 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
